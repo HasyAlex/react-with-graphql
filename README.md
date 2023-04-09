@@ -1,10 +1,10 @@
-**To Run React**
+**To Run React App**
 <br/>
 >npm start
 
 <br/><br/>
 
-**TO Run Node-Express-GraohQL**
+**To Run Node-Express-GraohQL App**
 <br/>
 >node index.js
 
